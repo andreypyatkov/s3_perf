@@ -23,7 +23,7 @@
 #include <thread>
 #include <vector>
 
-DEFINE_string(bucket_name, "ltsstest",
+DEFINE_string(bucket_name, "ltss-test",
               "S3 bucket name");
 
 DEFINE_string(region, "us-west-1",
